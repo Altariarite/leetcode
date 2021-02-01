@@ -9,4 +9,5 @@ I record my progress and answers in leetcode
 
 ## Reference
 https://iphyer.github.io/blog/2019/07/28/LCplan/
+
 https://github.com/xizhengszhang/Leetcode_company_frequency
